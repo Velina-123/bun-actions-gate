@@ -1,0 +1,13 @@
+{
+  "name": "bun-actions-gate",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest",
+    "vitest": "^4.1.4"
+  },
+  "peerDependencies": {
+    "typescript": "^6.0.3"
+  }
+}
